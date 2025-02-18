@@ -9,4 +9,5 @@ main(){
 
     cout << "bang ajarin bang" << endl;
     cout << "coba";
+    cout << "tes";
 }
