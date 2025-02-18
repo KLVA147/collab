@@ -7,4 +7,6 @@ main(){
     cout << "haha" << endl;
     cout << "hihi" << endl;
 
+    cout << "bang ajarin bang" << endl;
+    cout << "coba";
 }
