@@ -8,6 +8,8 @@ main(){
     cout << "hihi" << endl;
 
     cout << "bang ajarin bang" << endl;
-    cout << "coba";
-    cout << "tes";
+    cout << "coba" << endl;
+    cout << "tes" << endl;
+
+    cout << "tes pull" << endl;
 }
