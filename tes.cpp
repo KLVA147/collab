@@ -12,4 +12,5 @@ main(){
     cout << "tes" << endl;
 
     cout << "tes pull" << endl;
+    cout << "test push" << endl;
 }
